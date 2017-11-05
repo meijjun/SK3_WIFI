@@ -17,7 +17,7 @@ Get esptool.py on your host machine:
 
 Clone this repo within the shared folder on your host:
 
-    git clone https://github.com/ritazh/ESP8266-Azure-IOT
+    git clone https://github.com/meijjun/SK3_WIFI.git
 
 ## Setup Azure IoT
 
